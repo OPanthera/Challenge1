@@ -5,6 +5,7 @@
 
 body {
    font-family: 'Montserrat', sans-serif;
+
    text-align: center;
 }
 
@@ -27,6 +28,7 @@ body {
     padding: 10px;
     padding-bottom: 20px;
     border-radius: 20px;
+    box-shadow:  5px 5px 80px rgb(0 0 0 / 0.2);
     
 }
 
@@ -40,8 +42,12 @@ body {
 h1 {
     font-size: 20px;
     margin-bottom: 20px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
 }
 
 p {
     font-size: 15px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 400;
 }
